@@ -1,16 +1,23 @@
 # TradingBees Journal
 
-A free and open-source MT5 trading journal.
+A free & open-source MT5 trading journal built for Forex traders.
 
 ## Features
-- MT5 CSV Import
-- MT5 HTML Import
-- PnL Dashboard
-- Equity Curve
-- Drawdown Analysis
-- Win Rate
-- Trading Calendar
-- Psychology Journal
-- Trade Screenshots
+- 📊 PnL Dashboard
+- 📈 Equity Curve
+- 📉 Drawdown Analytics
+- 📒 Trading Journal
+- 😊 Psychology Tracking
+- 📷 Trade Screenshots
+- 📥 MT5 CSV Import
+- 📄 MT5 HTML Import
 
-Built by TradingBees Academy.
+## Roadmap
+- [ ] Dashboard
+- [ ] Journal
+- [ ] Analytics
+- [ ] Firebase
+- [ ] Authentication
+- [ ] MT5 Auto Sync
+
+Built with ❤️ by TradingBees Academy
